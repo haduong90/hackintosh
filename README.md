@@ -1,0 +1,2 @@
+# hackintosh
+file efi
